@@ -1,0 +1,9 @@
+.form-border
+{
+    border: 3px groove rgb(210, 202, 252);
+    border-radius: 0.8em;
+}
+.font-api
+{
+    font-family: 'Open Sans', sans-serif;
+}
